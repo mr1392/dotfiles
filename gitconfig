@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 308524987+mr1392@users.noreply.github.com
+	name = Mehdi Rerhrhaye
